@@ -1,6 +1,6 @@
 {
    
-   "All Sarees" :[
+   "allsarees" :[
     {
         "img1": "https://images.meesho.com/images/products/175747025/5ugld_400.jpg",
         "name": "Aakarsha Fashionable Sarees",
@@ -898,7 +898,7 @@
         "id": 64
     }
 ],
-  "TopWear":[
+  "topwear":[
     {
         "img1": "https://images.meesho.com/images/products/52286318/obyaq_400.jpg",
         "name": "Trendy Designer Men Tshirts",
@@ -1988,7 +1988,7 @@
         "id": 64
     }
 ],
-  "Dresses":[
+  "dresses":[
     {
         "img1": "https://images.meesho.com/images/products/139079126/5aq8z_400.jpg",
         "name": "Tinkle Fancy Girls Frocks & Dresses",
@@ -3334,7 +3334,7 @@
         "id": 64
     }
 ],
-  "Bedsheets":[
+  "bedsheets":[
     {
         "img1": "https://images.meesho.com/images/products/73985939/b4qcm_400.jpg",
         "name": "Attractive Bedsheets",
