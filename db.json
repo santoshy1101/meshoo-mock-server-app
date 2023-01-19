@@ -4359,5 +4359,15 @@
         "desc": "Trendy Bedsheets SAHIBA DREAM COLLECTIONS SANGANER JAIPUR , Suppliers listing their products on Meesho are solely responsible for the accuracy of product information. You shall use the products in safe and legal manner, and it shall not be used for any illegal purpose. The actual product packaging, material and design may contain more or different information as mentioned here including nutritional information, declarations, claims, instructions of use, warning, disclaimers et. al",
         "id": 64
     }
+],
+"users":[
+    {
+        "first":"santosh",
+        "last":"yadav",
+        "email":"santosh@gmail.com",
+        "password":1234,
+        "phone":8907643334,
+        "id":1
+    }
 ]
 }
