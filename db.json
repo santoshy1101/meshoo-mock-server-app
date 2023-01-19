@@ -4369,5 +4369,15 @@
         "phone":8907643334,
         "id":1
     }
+],
+"admins":[
+    {
+        "first":"santosh",
+        "last":"yadav",
+        "email":"santosh@gmail.com",
+        "password":1234,
+        "phone":8907643334,
+        "id":1
+    }
 ]
 }
