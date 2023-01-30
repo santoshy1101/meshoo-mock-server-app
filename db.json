@@ -1,6 +1,4 @@
 {
-   
-"products":{
     "allsarees" :[
         {
             "img1": "https://images.meesho.com/images/products/175747025/5ugld_400.jpg",
@@ -4646,5 +4644,4 @@
             "id":1
         }
     ]
-}
 }
